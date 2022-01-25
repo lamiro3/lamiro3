@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=lamiro3&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Tae%20Hyeon%20Ko&fontSize=90)
 
 <h2> 🛠 Tech Stack 🛠 </h2>
 <p>Techs that I've used at least once</p>
@@ -29,3 +29,6 @@
 ![KakaoTalk](https://img.shields.io/badge/고태현-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 ![Skype](https://img.shields.io/badge/고태현-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 ![Gmail](https://img.shields.io/badge/kktthh4076@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+## 📒 **Stat** 📒
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamiro3&show_icons=true&theme=dracula)
