@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=lamiro3&fontSize=90)
-<h3 align='center'> 🛠 Tech Stack 🛠 </h3>
-<p align='center'>Techs that I've used at least once</p>
 
-<p align='center'>
+<h2> 🛠 Tech Stack 🛠 </h2>
+<p>Techs that I've used at least once</p>
+
+<p>
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -23,3 +24,8 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 🍟 **Me** 🍟
+![Facebook](https://img.shields.io/badge/고태현-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Instagram](https://img.shields.io/badge/lamiro__ko-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![KakaoTalk](https://img.shields.io/badge/고태현-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
+![Skype](https://img.shields.io/badge/고태현-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
+![Gmail](https://img.shields.io/badge/kktthh4076@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
