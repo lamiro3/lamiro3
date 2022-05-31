@@ -10,7 +10,7 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Go](https://img.shields.io/badge/go-%23239120.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Go](https://img.shields.io/badge/go-%23007D9C.svg?style=for-the-badge&logo=go&logoColor=white)
   
 </p>
 
@@ -29,7 +29,7 @@
   <li>Computer Vision</li>
   <li>Natural Language Processing</li>
   <li>ML/DL</li>
-  <li>Go lang develop</li>
+  <li>Go lang</li>
   <li>WEB FULLSTACK</li>
 </ul>
 
