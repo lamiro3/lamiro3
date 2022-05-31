@@ -10,6 +10,7 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Go](https://img.shields.io/badge/go-%23239120.svg?style=for-the-badge&logo=go&logoColor=white)
   
 </p>
 
@@ -22,6 +23,15 @@
 ## 🔧 **Tool**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## 👀 **Interests**
+<ul>
+  <li>Computer Vision</li>
+  <li>Natural Language Processing</li>
+  <li>ML/DL</li>
+  <li>Go lang develop</li>
+  <li>WEB FULLSTACK</li>
+</ul>
 
 ## 🍟 **About Me**
 ![Facebook](https://img.shields.io/badge/고태현-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
