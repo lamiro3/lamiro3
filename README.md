@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Tae%20Hyeon%20Ko&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Ko%20TaeHyeon&fontSize=90)
 
 <h2> 🛠 Tech Stack </h2>
 <p>Techs that I've used at least once</p>
