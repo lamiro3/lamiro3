@@ -48,7 +48,7 @@
   <li>Computer Vision</li>
   <li>Natural Language Processing</li>
   <li>ML/DL</li>
-  <li>Go language</li>
+  <li>Go_lang</li>
   <li>WEB FULLSTACK</li>
   <li>Quantum computing</li>
 </ul>
