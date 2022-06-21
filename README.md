@@ -53,7 +53,7 @@
   <li>Quantum computing</li>
 </ul>
 
-## 🍟 **About Me**
+## 🍟 **Contact Me**
 ![Facebook](https://img.shields.io/badge/고태현-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/lamiro__ko-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![KakaoTalk](https://img.shields.io/badge/고태현-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
