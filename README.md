@@ -50,7 +50,7 @@
   <li>ML/DL</li>
   <li>Go_lang</li>
   <li>WEB FULLSTACK</li>
-  <li>Quantum computing</li>
+  <li>Quantum Computing</li>
 </ul>
 
 ## 🍟 **Contact Me**
