@@ -48,7 +48,7 @@
   <li>Computer Vision</li>
   <li>Natural Language Processing</li>
   <li>ML/DL</li>
-  <li>WEB_DEV FULLSTACK</li>
+  <li>WEB FULLSTACK</li>
   <li>Quantum Computing</li>
 </ul>
 
