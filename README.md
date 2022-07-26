@@ -63,7 +63,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamiro3&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamiro3&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lamiro3)](https://solved.ac/lamiro3/)
 
-## 📄 **Attended Projects/Contests**
+## 📄 **Attended Project/Contest**
 <ul>
   <li>2022 창의문제해결 프로젝트 - ( Dongguk Univ ) - 마스크 착용 시에도 원활하게 얼굴 인식을 할 수 있는 알고리즘 개발</li>
   <li>제20회 임베디드 소프트웨어 경진대회 - [ The World Embedded S/W Contest 2022 ]</li>
