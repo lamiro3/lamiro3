@@ -65,6 +65,7 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lamiro3)](https://sol
 
 ## 📄 **Attended Project/Contest**
 <ul>
+  <li>교내 IOB 동아리 팀 프로젝트 - SIR 모델을 이용한 실시간 COVID-19 확산 양상 예측 프로그램 제작</li>
   <li>2020 교내 1학생 1연구 대회 - ( Seolhwa Highschool ) - 바이러스 확산 시뮬레이션 프로그램을 이용한 COVID-19과 Social Distancing 사이의 상관관계 조사 </li>
   <li>2022 창의문제해결 프로젝트 - ( Dongguk Univ ) - 마스크 착용 시에도 원활하게 얼굴 인식을 할 수 있는 알고리즘 개발</li>
   <li>제20회 임베디드 소프트웨어 경진대회 - [ The World Embedded S/W Contest 2022 ]</li>
