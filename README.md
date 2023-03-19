@@ -57,8 +57,9 @@
 ![Gmail](https://img.shields.io/badge/kktthh4076@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## 📒 **My Stat**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamiro3&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamiro3&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lamiro3)](https://solved.ac/lamiro3/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamiro3&show_icons=true&theme=default) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamiro3&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lamiro3)](https://solved.ac/lamiro3/)
 
 ## 📄 **Attended Project/Contest**
 <ul>
