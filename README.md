@@ -56,7 +56,7 @@
 ![Skype](https://img.shields.io/badge/고태현-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 ![Gmail](https://img.shields.io/badge/kktthh4076@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-## 📒 **My Stat**
+## 🧙‍♂️ **My Stat**
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamiro3&show_icons=true&theme=default) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamiro3&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lamiro3)](https://solved.ac/lamiro3/)
@@ -68,3 +68,8 @@
   <li>2022 창의문제해결 프로젝트 - ( Dongguk Univ ) - 마스크 착용 시에도 원활하게 얼굴 인식을 할 수 있는 알고리즘 개발</li>
   <li>Deep Daiv - 리뷰 텍스트를 이용한 평점 예측 모델 제작
 </ul>
+
+## 📜 **My Certification**
+<ol>
+  <li>한국산업인력공단-정보처리기능사(Information processing technician)</li>
+</ol>
