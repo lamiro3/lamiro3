@@ -71,5 +71,5 @@
 
 ## 📜 **My Certification**
 <ol>
-  <li>한국산업인력공단-정보처리기능사(Information processing technician)</li>
+  <li>한국산업인력공단-정보처리기능사</li>
 </ol>
