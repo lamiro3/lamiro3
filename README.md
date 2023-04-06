@@ -47,6 +47,7 @@
   <li>ML & DL</li>
   <li>WEB FULLSTACK</li>
   <li>Financial Data Analysis</li>
+  <li>현여울</li>
 </ul>
 
 ## 🍟 **Contact Me**
