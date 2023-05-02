@@ -57,6 +57,7 @@
 ![Gmail](https://img.shields.io/badge/kktthh4076@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## 🧙‍♂️ **My Stat**
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=lamiro3)](https://codeforces.com/profile/lamiro3)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lamiro3)](https://solved.ac/lamiro3/)
 
 ## 📄 **Attended Project/Contest**
@@ -67,7 +68,7 @@
   <li>Deep Daiv - 리뷰 텍스트를 이용한 평점 예측 모델 제작
 </ul>
 
-## 📜 **My Certification**
+## 📜 **My Certificates**
 <ol>
   <li>한국산업인력공단-정보처리기능사</li>
 </ol>
