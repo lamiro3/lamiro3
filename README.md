@@ -27,7 +27,6 @@
   
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![CRA](https://img.shields.io/badge/cra-%2320232a.svg?style=for-the-badge&logo=create-react-app&logoColor=%2361DAFB)
   ![Node](https://img.shields.io/badge/node-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
   ![Npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
@@ -49,27 +48,20 @@
   <li>Financial Data Analysis</li>
 </ul>
 
-## 🍟 **Contact Me**
-![Facebook](https://img.shields.io/badge/고태현-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/lamiro__ko-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![KakaoTalk](https://img.shields.io/badge/고태현-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
-![Skype](https://img.shields.io/badge/고태현-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
-![Gmail](https://img.shields.io/badge/kktthh4076@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 ## 🧙‍♂️ **My Stat**
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=lamiro3)](https://codeforces.com/profile/lamiro3)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lamiro3)](https://solved.ac/lamiro3/)
 
 ## 📄 **Attended Project/Contest**
 <ul>
-  <li>교내 IOB 동아리 팀 프로젝트 - SIR 모델을 이용한 실시간 COVID-19 확산 양상 예측 프로그램 제작</li>
-  <li>2020 교내 1학생 1연구 대회 - ( Seolhwa Highschool ) - 바이러스 확산 시뮬레이션 프로그램을 이용한 COVID-19과 Social Distancing 사이의 상관관계 조사 </li>
-  <li>2022 창의문제해결 프로젝트 - ( Dongguk Univ ) - 마스크 착용 시에도 원활하게 얼굴 인식을 할 수 있는 알고리즘 개발</li>
-  <li>Deep Daiv - 리뷰 텍스트를 이용한 평점 예측 모델 제작
+  <li>Real-time COVID-19 Spread Pattern Prediction Program Using SIR Model - Seolhwa Highschool - (2020)</li>
+  <li>A Study on the Correlation between COVID-19 and Social Distancing with a V.S.S. Program - Seolhwa Highschool - (2021)</li>
+  <li>An algorithm that can recognize faces when wearing a mask - Dongguk Univ - (2022)</li>
+  <li>A rating prediction model using review text - Deep Daiv - (2022)</li>
 </ul>
 
 ## 📜 **My Certificates**
 <ol>
-  <li>한국산업인력공단-정보처리기능사</li>
-  <li>한국데이터자격검정-데이터분석준전문가(ADsP)</li>
+  <li>한국산업인력공단-정보처리기능사 - (2023)</li>
+  <li>한국데이터자격검정-데이터분석준전문가(ADsP) - (2023)</li>
 </ol>
