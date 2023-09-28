@@ -52,7 +52,7 @@
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=lamiro3)](https://codeforces.com/profile/lamiro3)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lamiro3)](https://solved.ac/lamiro3/)
 
-## 📄 **Attended Project/Contest**
+## 📄 **Project**
 <ul>
   <li>Real-time COVID-19 Spread Pattern Prediction Program Using SIR Model - Seolhwa Highschool - (2020)</li>
   <li>A Study on the Correlation between COVID-19 and Social Distancing with a V.S.S. Program - Seolhwa Highschool - (2021)</li>
