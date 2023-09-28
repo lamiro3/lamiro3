@@ -49,8 +49,9 @@
 </ul>
 
 ## 🧑‍💻 **My Stat**
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=lamiro3)](https://codeforces.com/profile/lamiro3)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lamiro3)](https://solved.ac/lamiro3/)
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=lamiro3)](https://codeforces.com/profile/lamiro3)
 
 ## 📄 **Project**
 <ul>
