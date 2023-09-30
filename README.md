@@ -45,7 +45,7 @@
   <li>Natural Language Processing</li>
   <li>ML & DL</li>
   <li>WEB FULLSTACK</li>
-  <li>Financial Data Analysis</li>
+  <li>Data Analysis</li>
 </ul>
 
 ## 🧑‍💻 **My Stat**
