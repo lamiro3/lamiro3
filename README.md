@@ -6,9 +6,10 @@
 <p>
   
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=Java&logoColor=white)
   ![VBA](https://img.shields.io/badge/vba-%23AC86BA.svg?style=for-the-badge&logo=visualbasic&logoColor=white)
   ![RUST](https://img.shields.io/badge/rust-%23E86B00.svg?style=for-the-badge&logo=rust&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![C#](https://img.shields.io/badge/c%23-%236F1C7B.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Go](https://img.shields.io/badge/go-%23007D9C.svg?style=for-the-badge&logo=go&logoColor=white)
   
 </p>
