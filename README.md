@@ -65,7 +65,7 @@
 
 ## 📜 **My Certificates**
 <ol>
-  <li>한국산업인력공단-정보처리기능사 - (2023)</li>
-  <li>한국데이터자격검정-데이터분석준전문가(ADsP) - (2023)</li>
-  <li>한국데이터자격검정-SQL개발자(SQLD) - (2023)</li>
+  <li>HRDK : 정보처리기능사 : 2023</li>
+  <li>KDATA : 데이터분석준전문가(ADsP): 2023</li>
+  <li>KDATA : SQL개발자(SQLD) : 2023</li>
 </ol>
