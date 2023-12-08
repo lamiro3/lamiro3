@@ -66,6 +66,6 @@
 ## 📜 **My Certificates**
 <ol>
   <li>HRDK : 정보처리기능사 : 2023</li>
-  <li>KDATA : 데이터분석준전문가(ADsP): 2023</li>
-  <li>KDATA : SQL개발자(SQLD) : 2023</li>
+  <li>KDATA : ADsP : 2023</li>
+  <li>KDATA : SQLD : 2023</li>
 </ol>
