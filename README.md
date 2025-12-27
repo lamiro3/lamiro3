@@ -6,17 +6,13 @@
 <p>
   
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=Java&logoColor=white)
   ![VBA](https://img.shields.io/badge/vba-%23AC86BA.svg?style=for-the-badge&logo=visualbasic&logoColor=white)
-  ![RUST](https://img.shields.io/badge/rust-%23E86B00.svg?style=for-the-badge&logo=rust&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%236F1C7B.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Go](https://img.shields.io/badge/go-%23007D9C.svg?style=for-the-badge&logo=go&logoColor=white)
   
 </p>
 <p>
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
   ![Tensorflow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
