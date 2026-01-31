@@ -58,4 +58,5 @@
   <li>HRDK - 정보처리기능사 (2023)</li>
   <li>KDATA - ADsP (2023)</li>
   <li>KDATA - SQLD (2023)</li>
+  <li>KAIT - 리눅스마스터2급 (2025)</li>
 </ol>
