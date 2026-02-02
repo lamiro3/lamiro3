@@ -47,9 +47,18 @@
 
 ## 📄 **Project**
 <ul>
-  <li>Real-time COVID-19 Spread Pattern Prediction Program Using SIR Model - Seolhwa Highschool - (2020)</li>
-  <li>A Study on the Correlation between COVID-19 and Social Distancing with a V.S.S. Program - Seolhwa Highschool - (2021)</li>
-  <li>An algorithm that can recognize faces when wearing a mask - Dongguk Univ - (2022)</li>
+  <li>
+    <div>Real-time COVID-19 Spread Pattern Prediction Program Using SIR Model - Seolhwa Highschool - (2020)</div>
+    <div>https://github.com/lamiro3/Python/tree/main/covid_19_forecasting_model</div>
+  </li>
+  <li>
+    <div>A Study on the Correlation between COVID-19 and Social Distancing with a V.S.S. Program - Seolhwa Highschool - (2021)</div>
+    <div>https://github.com/lamiro3/Python/tree/main/virus_diffusion_simulation_program</div>
+  </li>
+  <li>
+    <div>An algorithm that can recognize faces when wearing a mask - Dongguk Univ - (2022)</div>
+    <div>https://github.com/H0-RUS/Face_Recognition_Model</div>
+  </li>
   <li>A rating prediction model using review text - Deep Daiv - (2022)</li>
 </ul>
 
