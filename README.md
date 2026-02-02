@@ -41,17 +41,17 @@
 </ul>
 
 ## 🧑‍💻 **My Stat**
-<div style="display: flex; gap: 20px;">
+<div style="display: flex;">
   <a href="https://solved.ac/lamiro3/">
     <img 
       src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lamiro3"
-      style="width: 600px; height: 300px;"
+      style="width: 350px; height: 200px;"
     />
   </a>
   <a href="https://codeforces.com/profile/lamiro3">
     <img 
       src="https://codeforces-readme-stats.vercel.app/api/card?username=lamiro3"
-      style="width: 400px; height: auto;"
+      style="width: 280px; height: 200px;"
     />
   </a>
 </div>
