@@ -38,23 +38,6 @@
   <li>Data Analysis</li>
 </ul>
 
-## 🧑‍💻 **My Stat**
-<div style="display: flex;">
-  <a href="https://solved.ac/lamiro3/">
-    <img 
-      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lamiro3"
-      style="width: 400px; height: 200px;"
-    />
-  </a>
-  <a href="https://codeforces.com/profile/lamiro3">
-    <img 
-      src="https://codeforces-readme-stats.vercel.app/api/card?username=lamiro3"
-      style="width: 300px; height: 200px;"
-    />
-  </a>
-</div>
-
-
 ## 📄 **Project**
 <ul>
   <li>
@@ -70,6 +53,10 @@
     <div>https://github.com/H0-RUS/Face_Recognition_Model</div>
   </li>
   <li>A rating prediction model using review text - Deep Daiv - (2022)</li>
+  <li>
+    <div>Heart Attack Analysis & Prediction Dataset - Low Risk of Heart Attack/High Risk Classification - (2022)</div>
+    <div>https://github.com/lamiro3/Python/blob/main/IDS/IDS_Team_proj_%EA%B3%A0%ED%83%9C%ED%98%84_%EC%9E%84%EC%A7%80%ED%9B%88.ipynb</div>
+  </li>
 </ul>
 
 ## 📜 **My Certificates**
@@ -79,3 +66,23 @@
   <li>KDATA - SQLD (2023)</li>
   <li>KAIT - 리눅스마스터2급 (2025)</li>
 </ol>
+
+## 📈 **External activities**
+<ol>
+  <li>Korean Air Force Electronic Computer Operation (cyber system operation) Service (2023.08. ~ 2025.05.)</li>
+  <li>12th B.D.A.I. Regular Academy (2026 ~ ing)</li>
+  <li>10th UMC WEB Part (2026 ~ ing)</li>
+</ol>
+
+## 🧠 **Problem Solving (Baekjoon & Codeforces)**
+<p align="center">
+  <a href="https://solved.ac/lamiro3/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lamiro3" width="300"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/lamiro3">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=lamiro3" width="300"/>
+  </a>
+</p>
