@@ -66,24 +66,16 @@
 ## 📜 **My Certificates**
 <ol>
   <li>
-    <a href="https://github.com/user-attachments/files/26089702/_.pdf">
       <div>HRDK - 정보처리기능사 (2023)</div>
-    </a>
   </li>
   <li>
-    <a href="https://github.com/user-attachments/files/26089734/ADsP_.pdf">
       <div>KDATA - ADsP (2023)</div>
-    </a>
   </li>
   <li>
-    <a href="https://github.com/user-attachments/files/26089749/SQLD_.pdf">
       <div>KDATA - SQLD (2023)</div>
-    </a>
   </li>
   <li>
-    <a href="https://github.com/user-attachments/files/26089766/2._.pdf">
       <div>KAIT - 리눅스마스터2급 (2025)</div>
-    </a>
   </li>
 </ol>
 
