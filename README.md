@@ -41,30 +41,50 @@
 ## 📄 **Project**
 <ul>
   <li>
-    <div>Real-time COVID-19 Spread Pattern Prediction Program Using SIR Model - Seolhwa Highschool - (2020)</div>
-    <div>https://github.com/lamiro3/Python/tree/main/covid_19_forecasting_model</div>
+    <a href="https://github.com/lamiro3/Python/tree/main/covid_19_forecasting_model">
+      <div>Real-time COVID-19 Spread Pattern Prediction Program Using SIR Model - Seolhwa Highschool - (2020)</div>
+    </a>
   </li>
   <li>
-    <div>A Study on the Correlation between COVID-19 and Social Distancing with a V.S.S. Program - Seolhwa Highschool - (2021)</div>
-    <div>https://github.com/lamiro3/Python/tree/main/virus_diffusion_simulation_program</div>
+    <a href="https://github.com/lamiro3/Python/tree/main/virus_diffusion_simulation_program">
+      <div>A Study on the Correlation between COVID-19 and Social Distancing with a V.S.S. Program - Seolhwa Highschool - (2021)</div>
+    </a>
   </li>
   <li>
-    <div>An algorithm that can recognize faces when wearing a mask - Dongguk Univ - (2022)</div>
-    <div>https://github.com/H0-RUS/Face_Recognition_Model</div>
+    <a href="https://github.com/H0-RUS/Face_Recognition_Model">
+      <div>A model that can recognize faces when wearing a mask - Dongguk Univ - (2022)</div>
+    </a>
   </li>
   <li>A rating prediction model using review text - Deep Daiv - (2022)</li>
   <li>
-    <div>Heart Attack Analysis & Prediction Dataset - Low Risk of Heart Attack/High Risk Classification - (2022)</div>
-    <div>https://github.com/lamiro3/Python/blob/main/IDS/IDS_Team_proj_%EA%B3%A0%ED%83%9C%ED%98%84_%EC%9E%84%EC%A7%80%ED%9B%88.ipynb</div>
+    <a href="https://github.com/lamiro3/Python/blob/main/IDS/IDS_Team_proj_%EA%B3%A0%ED%83%9C%ED%98%84_%EC%9E%84%EC%A7%80%ED%9B%88.ipynb">
+      <div>Heart Attack Analysis & Prediction Dataset - Low Risk of Heart Attack/High Risk Classification - (2022)</div>
+    </a>
   </li>
 </ul>
 
 ## 📜 **My Certificates**
 <ol>
-  <li>HRDK - 정보처리기능사 (2023)</li>
-  <li>KDATA - ADsP (2023)</li>
-  <li>KDATA - SQLD (2023)</li>
-  <li>KAIT - 리눅스마스터2급 (2025)</li>
+  <li>
+    <a href="https://github.com/user-attachments/files/26089702/_.pdf">
+      <div>HRDK - 정보처리기능사 (2023)</div>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/user-attachments/files/26089734/ADsP_.pdf">
+      <div>KDATA - ADsP (2023)</div>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/user-attachments/files/26089749/SQLD_.pdf">
+      <div>KDATA - SQLD (2023)</div>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/user-attachments/files/26089766/2._.pdf">
+      <div>KAIT - 리눅스마스터2급 (2025)</div>
+    </a>
+  </li>
 </ol>
 
 ## 📈 **External activities**
