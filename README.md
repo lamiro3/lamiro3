@@ -61,6 +61,11 @@
       <div>Heart Attack Analysis & Prediction Dataset - Low Risk of Heart Attack/High Risk Classification - (2022)</div>
     </a>
   </li>
+  <li>
+    <a href="https://www.lamiro3.site/">
+      <div>Personal Blog - Lamiro's Blog (2026.01. ~ 2026.03.26.)</div>
+    </a>
+  </li>
 </ul>
 
 ## 📜 **My Certificates**
