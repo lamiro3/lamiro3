@@ -86,7 +86,7 @@
 
 ## 📈 **External activities**
 <ol>
-  <li>Korean Air Force Electronic Computer Operation (cyber system operation) Service (2023.08. ~ 2025.05.)</li>
+  <li>ROKAF Cyber System Operation (2023.08 ~ 2025.05)</li>
   <li>12th B.D.A.I. Regular Academy (2026 ~ ing)</li>
   <li>10th UMC WEB Part (2026 ~ ing)</li>
 </ol>
