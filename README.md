@@ -88,7 +88,7 @@
 <ol>
   <li>ROKAF Cyber System Operation (2023.08 ~ 2025.05)</li>
   <li>12th B.D.A.I. Regular Academy (2026 ~ ing)</li>
-  <li>10th UMC WEB Part (2026 ~ ing)</li>
+  <li>10th DGU UMC WEB Part (2026 ~ ing)</li>
 </ol>
 
 ## 🧠 **Problem Solving (Baekjoon & Codeforces)**
