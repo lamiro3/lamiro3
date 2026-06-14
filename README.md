@@ -38,37 +38,18 @@
   <li>Data Analysis</li>
 </ul>
 
-## 📄 **Project**
-<ul>
-  <li>
-    <a href="https://github.com/lamiro3/Python/tree/main/covid_19_forecasting_model">
-      <div>Real-time COVID-19 Spread Pattern Prediction Program Using SIR Model - Seolhwa Highschool - (2020)</div>
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/lamiro3/Python/tree/main/virus_diffusion_simulation_program">
-      <div>A Study on the Correlation between COVID-19 and Social Distancing with a V.S.S. Program - Seolhwa Highschool - (2021)</div>
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/H0-RUS/Face_Recognition_Model">
-      <div>A model that can recognize faces when wearing a mask - Dongguk Univ - (2022)</div>
-    </a>
-  </li>
-  <li>A rating prediction model using review text - Deep Daiv - (2022)</li>
-  <li>
-    <a href="https://github.com/lamiro3/Python/blob/main/IDS/IDS_Team_proj_%EA%B3%A0%ED%83%9C%ED%98%84_%EC%9E%84%EC%A7%80%ED%9B%88.ipynb">
-      <div>Heart Attack Analysis & Prediction Dataset - Low Risk of Heart Attack/High Risk Classification - (2022)</div>
-    </a>
-  </li>
-  <li>
-    <a href="https://www.lamiro3.site/">
-      <div>Personal Blog - Lamiro's Blog (2026.01. ~ 2026.03.26.)</div>
-    </a>
-  </li>
-</ul>
+## 📄 **Projects**
+| Year | Project | Affiliation |
+|:---:|:---|:---:|
+| `2020` | **[SIR-based Real-time COVID-19 Spread Prediction](https://github.com/lamiro3/Python/tree/main/covid_19_forecasting_model)** | ![Seolhwa High](https://img.shields.io/badge/Seolhwa%20High-1D9E75?style=flat-square) |
+| `2021` | **[COVID-19 × Social Distancing Correlation Study (V.S.S.)](https://github.com/lamiro3/Python/tree/main/virus_diffusion_simulation_program)** | ![Seolhwa High](https://img.shields.io/badge/Seolhwa%20High-1D9E75?style=flat-square) |
+| `2022` | **[Masked Face Recognition Model](https://github.com/H0-RUS/Face_Recognition_Model)** | ![Dongguk Univ](https://img.shields.io/badge/Dongguk%20Univ-7F77DD?style=flat-square) |
+| `2022` | **Rating Prediction Model using Review Text** | ![Deep Daiv](https://img.shields.io/badge/Deep%20Daiv-D85A30?style=flat-square) |
+| `2022` | **[Heart Attack Risk Classification (High / Low)](https://github.com/lamiro3/Python/blob/main/IDS/IDS_Team_proj_%EA%B3%A0%ED%83%9C%ED%98%84_%EC%9E%84%EC%A7%80%ED%9B%88.ipynb)** | ![Dongguk Univ](https://img.shields.io/badge/Dongguk%20Univ-7F77DD?style=flat-square) |
+| `2026` | **[Lamiro's Blog — Personal Blog](https://www.lamiro3.site/)** <br> `2026.01 ~ 2026.03.26` | ![Personal](https://img.shields.io/badge/Personal-378ADD?style=flat-square) |
+| `2026` | **[Lin-K — AI Tourism Route + Real-time Disaster Safety](https://lin-k.site/)** <br> `2026.03 ~ 2026.06.12` | ![Dongguk Univ](https://img.shields.io/badge/Dongguk%20Univ-7F77DD?style=flat-square) |
 
-## 📜 **My Certificates**
+## 📜 **Certificates**
 <ol>
   <li>
       <div>HRDK - 정보처리기능사 (2023)</div>
@@ -84,7 +65,7 @@
   </li>
 </ol>
 
-## 📈 **External activities**
+## 📈 **Activities**
 <ol>
   <li>ROKAF Cyber System Operation (2023.08 ~ 2025.05)</li>
   <li>12th B.D.A.I. Regular Academy (2026 ~ ing)</li>
