@@ -69,7 +69,9 @@
 <ol>
   <li>ROKAF Cyber System Operation (2023.08 ~ 2025.05)</li>
   <li>12th B.D.A.I. Regular Academy (2026 ~ ing)</li>
-  <li>10th DGU UMC WEB Part (2026 ~ ing)</li>
+  <li>10th DGU UMC WEB Part (2026.03.02 ~ 2026.06.16)</li>
+  <li><a href="https://github.com/UMC-POP-IT/Pop-It-FE">10th UMC Ferrum chapter "demoday" - POP IT - Frontend(WEB) Part (2026.06.22 ~ ing)</a></li>
+  <li><a href="https://sangsoolim.notion.site/">DGU PRISM Lab Undergraduate Intern (2026.07.02 ~ ing)</a></li>
 </ol>
 
 ## 🧠 **Problem Solving (Baekjoon & Codeforces)**
