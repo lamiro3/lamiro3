@@ -31,11 +31,11 @@
 
 ## 👀 **Interests**
 <ul>
+  <li>Drug Response Prediction</li>
   <li>Computer Vision</li>
-  <li>Natural Language Processing</li>
-  <li>ML & DL</li>
-  <li>WEB FULLSTACK</li>
+  <li>Machine Learning</li>
   <li>Data Analysis</li>
+  <li>WEB</li>
 </ul>
 
 ## 📄 **Projects**
@@ -48,6 +48,8 @@
 | `2022` | **[Heart Attack Risk Classification (High / Low)](https://github.com/lamiro3/Python/blob/main/IDS/IDS_Team_proj_%EA%B3%A0%ED%83%9C%ED%98%84_%EC%9E%84%EC%A7%80%ED%9B%88.ipynb)** | ![Dongguk Univ](https://img.shields.io/badge/Dongguk%20Univ-7F77DD?style=flat-square) |
 | `2026` | **[Lamiro's Blog — Personal Blog](https://www.lamiro3.site/)** <br> `2026.01 ~ 2026.03.26` | ![Personal](https://img.shields.io/badge/Personal-378ADD?style=flat-square) |
 | `2026` | **[Lin-K — AI Tourism Route + Real-time Disaster Safety](https://lin-k.site/)** <br> `2026.03 ~ 2026.06.12` | ![Dongguk Univ](https://img.shields.io/badge/Dongguk%20Univ-7F77DD?style=flat-square) |
+| `2026` | **[POP-IT](https://www.popit.co.kr/)** <br> `2026.06.22 ~ 2026.08.22` | ![UMC](https://img.shields.io/badge/UMC-ffd966?style=flat-square) |
+| `2026` | **[SafeMoney — AI-Based Financial Safety Management Platform](https://github.com/wo0oo/SafeMoney)** <br> `2026.07.28 ~ ing` | ![BDAI](https://img.shields.io/badge/BDAI-c90076?style=flat-square) |
 
 ## 📜 **Certificates**
 <ol>
@@ -68,9 +70,10 @@
 ## 📈 **Activities**
 <ol>
   <li>ROKAF Cyber System Operation (2023.08 ~ 2025.05)</li>
-  <li>12th B.D.A.I. Regular Academy (2026 ~ ing)</li>
+  <li>12th B.D.A.I. Regular Academy (2026.03 ~ 2026.08)</li>
   <li>10th DGU UMC WEB Part (2026.03.02 ~ 2026.06.16)</li>
-  <li><a href="https://github.com/UMC-POP-IT/Pop-It-FE">10th UMC Ferrum chapter "demoday" - POP IT - Frontend Part Leader (2026.06.22 ~ ing)</a></li>
+  <li><a href="https://github.com/UMC-POP-IT/Pop-It-FE">10th UMC Ferrum chapter "demoday" - POP IT - Frontend Part Leader (2026.06.22 ~ 2026.08.22)</a></li>
+  <li><a href="https://github.com/wo0oo/SafeMoney">2026 Finance AI Challenge - SafeMoney - Data/AI part (2026.07.28 ~ ing)</a></li>
   <li><a href="https://sangsoolim.notion.site/">DGU PRISM Lab Undergraduate Intern (2026.07.02 ~ ing)</a></li>
 </ol>
 
