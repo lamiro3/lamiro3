@@ -47,7 +47,7 @@
 | `2022` | **Rating Prediction Model using Review Text** | ![Deep Daiv](https://img.shields.io/badge/Deep%20Daiv-D85A30?style=flat-square) |
 | `2022` | **[Heart Attack Risk Classification (High / Low)](https://github.com/lamiro3/Python/blob/main/IDS/IDS_Team_proj_%EA%B3%A0%ED%83%9C%ED%98%84_%EC%9E%84%EC%A7%80%ED%9B%88.ipynb)** | ![Dongguk Univ](https://img.shields.io/badge/Dongguk%20Univ-7F77DD?style=flat-square) |
 | `2026` | **[Lamiro's Blog — Personal Blog](https://www.lamiro3.site/)** <br> `2026.01 ~ 2026.03.26` | ![Personal](https://img.shields.io/badge/Personal-378ADD?style=flat-square) |
-| `2026` | **[Lin-K — AI Tourism Route + Real-time Disaster Safety](https://lin-k.site/)** <br> `2026.03 ~ 2026.06.12` | ![Dongguk Univ](https://img.shields.io/badge/Dongguk%20Univ-7F77DD?style=flat-square) |
+| `2026` | **[Lin-K — AI Tourism Route + Real-time Disaster Safety](https://github.com/lamiro3/Lin-K)** <br> `2026.03 ~ 2026.06.12` | ![Dongguk Univ](https://img.shields.io/badge/Dongguk%20Univ-7F77DD?style=flat-square) |
 | `2026` | **[POP-IT](https://www.popit.co.kr/)** <br> `2026.06.22 ~ 2026.08.22` | ![UMC](https://img.shields.io/badge/UMC-ffd966?style=flat-square) |
 | `2026` | **[SafeMoney — AI-Based Financial Safety Management Platform](https://github.com/wo0oo/SafeMoney)** <br> `2026.07.28 ~ ing` | ![BDAI](https://img.shields.io/badge/BDAI-c90076?style=flat-square) |
 
