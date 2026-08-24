@@ -38,6 +38,9 @@
   <li>WEB</li>
 </ul>
 
+## 🏆 **Awards**
+- 4TH BUSAN NE(O)RDINARY FESTIVAL 2026 - POP-IT - GRAND PRIZE(대상)
+
 ## 📄 **Projects**
 | Year | Project | Affiliation |
 |:---:|:---|:---:|
