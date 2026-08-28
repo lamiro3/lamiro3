@@ -39,7 +39,7 @@
 </ul>
 
 ## 🏆 **Awards**
-- 4TH BUSAN NE(O)RDINARY FESTIVAL 2026 - POP-IT - GRAND PRIZE(대상)
+- [2026.08.22] 4TH BUSAN NE(O)RDINARY FESTIVAL 2026 - POP-IT - GRAND PRIZE(대상)
 
 ## 📄 **Projects**
 | Year | Project | Affiliation |
