@@ -74,7 +74,7 @@
 <ol>
   <li>ROKAF Cyber System Operation (2023.08 ~ 2025.05)</li>
   <li>12th B.D.A.I. Regular Academy (2026.03 ~ 2026.08)</li>
-  <li>10th DGU UMC WEB Part (2026.03.02 ~ 2026.06.16)</li>
+  <li>10th DGU UMC WEB Part challenger (2026.03.02 ~ 2026.06.16)</li>
   <li><a href="https://github.com/UMC-POP-IT/Pop-It-FE">10th UMC Ferrum chapter "demoday" - POP IT - Frontend Part Leader (2026.06.22 ~ 2026.08.22)</a></li>
   <li><a href="https://github.com/wo0oo/SafeMoney">2026 Finance AI Challenge - SafeMoney - Data/AI part (2026.07.28 ~ ing)</a></li>
   <li><a href="https://sangsoolim.notion.site/">DGU PRISM Lab Undergraduate Intern (2026.07.02 ~ ing)</a></li>
