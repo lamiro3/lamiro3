@@ -39,7 +39,8 @@
 </ul>
 
 ## 🏆 **Awards**
-- [2026.08.22] 4TH BUSAN NE(O)RDINARY FESTIVAL 2026 - POP-IT - GRAND PRIZE(대상)
+- <a href="https://github.com/lamiro3/lamiro3/blob/main/%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90_Web_%ED%85%AC_%EA%B3%A0%ED%83%9C%ED%98%84_%EB%8C%80%EC%83%81.pdf" target="_blank"> 4TH BUSAN NE(O)RDINARY FESTIVAL 2026 - POP-IT - GRAND PRIZE(대상)</a>
+
 
 ## 📄 **Projects**
 | Year | Project | Affiliation |
@@ -74,7 +75,7 @@
 <ol>
   <li>ROKAF Cyber System Operation (2023.08 ~ 2025.05)</li>
   <li>12th B.D.A.I. Regular Academy (2026.03 ~ 2026.08)</li>
-  <li>10th DGU UMC WEB Part challenger (2026.03.02 ~ 2026.06.16)</li>
+  <li><a href="https://github.com/lamiro3/lamiro3/blob/main/%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90_Web_%ED%85%AC_%EA%B3%A0%ED%83%9C%ED%98%84_%EC%88%98%EB%A3%8C%EC%A6%9D.pdf" target="_blank">10th DGU UMC WEB Part challenger (2026.03.14 ~ 2026.08.22)</a></li>
   <li><a href="https://github.com/UMC-POP-IT/Pop-It-FE">10th UMC Ferrum chapter "demoday" - POP IT - Frontend Part Leader (2026.06.22 ~ 2026.08.22)</a></li>
   <li><a href="https://github.com/wo0oo/SafeMoney">2026 Finance AI Challenge - SafeMoney - Data/AI part (2026.07.28 ~ ing)</a></li>
   <li><a href="https://sangsoolim.notion.site/">DGU PRISM Lab Undergraduate Intern (2026.07.02 ~ ing)</a></li>
