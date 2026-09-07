@@ -53,7 +53,7 @@
 | `2026` | **[Lamiro's Blog — Personal Blog](https://www.lamiro3.site/)** <br> `2026.01 ~ 2026.03.26` | ![Personal](https://img.shields.io/badge/Personal-378ADD?style=flat-square) |
 | `2026` | **[Lin-K — AI Tourism Route + Real-time Disaster Safety](https://github.com/lamiro3/Lin-K)** <br> `2026.03 ~ 2026.06.12` | ![Dongguk Univ](https://img.shields.io/badge/Dongguk%20Univ-7F77DD?style=flat-square) |
 | `2026` | **[POP-IT — Short-term Space Rental Platform](https://www.popit.co.kr/)** <br> `2026.06.22 ~ 2026.08.22` | ![UMC](https://img.shields.io/badge/UMC-ffd966?style=flat-square) |
-| `2026` | **[SafeMoney — AI-Based Financial Safety Management Platform](https://github.com/wo0oo/SafeMoney)** <br> `2026.07.28 ~ ing` | ![BDAI](https://img.shields.io/badge/BDAI-c90076?style=flat-square) |
+| `2026` | **[SafeMoney — AI-Based Financial Safety Management Platform](https://github.com/wo0oo/SafeMoney)** <br> `2026.07.28 ~ 2026.09.07` | ![BDAI](https://img.shields.io/badge/BDAI-c90076?style=flat-square) |
 
 ## 📜 **Certificates**
 <ol>
@@ -77,7 +77,7 @@
   <li>12th B.D.A.I. Regular Academy (2026.03 ~ 2026.08)</li>
   <li><a href="https://github.com/lamiro3/lamiro3/blob/main/%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90_Web_%ED%85%AC_%EA%B3%A0%ED%83%9C%ED%98%84_%EC%88%98%EB%A3%8C%EC%A6%9D.pdf" target="_blank">10th DGU UMC WEB Part challenger (2026.03.14 ~ 2026.08.22)</a></li>
   <li><a href="https://github.com/UMC-POP-IT/Pop-It-FE">10th UMC Ferrum chapter "demoday" - POP IT - Frontend Part Leader (2026.06.22 ~ 2026.08.22)</a></li>
-  <li><a href="https://github.com/wo0oo/SafeMoney">2026 Finance AI Challenge - SafeMoney - Data/AI part (2026.07.28 ~ ing)</a></li>
+  <li><a href="https://github.com/wo0oo/SafeMoney">2026 Finance AI Challenge - SafeMoney - Data/AI part (2026.07.28 ~ 2026.09.07)</a></li>
   <li><a href="https://sangsoolim.notion.site/">DGU PRISM Lab Undergraduate Intern (2026.07.02 ~ ing)</a></li>
 </ol>
 
