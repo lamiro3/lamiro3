@@ -79,6 +79,7 @@
   <li><a href="https://github.com/UMC-POP-IT/Pop-It-FE">10th UMC Ferrum chapter "demoday" - POP IT - Frontend Part Leader (2026.06.22 ~ 2026.08.22)</a></li>
   <li><a href="https://github.com/wo0oo/SafeMoney">2026 Finance AI Challenge - SafeMoney - Data/AI part (2026.07.28 ~ 2026.09.07)</a></li>
   <li><a href="https://sangsoolim.notion.site/">DGU PRISM Lab Undergraduate Intern (2026.07.02 ~ ing)</a></li>
+  <li>GDGoC(Google Developer Group on Campus) DGU 4th General Member - S/W Engineer - AI/ML (2026.09.15 ~ ing)</li>
 </ol>
 
 ## 🧠 **Problem Solving (Baekjoon & Codeforces)**
