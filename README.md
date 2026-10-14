@@ -54,6 +54,7 @@
 | `2026` | **[Lin-K — AI Tourism Route + Real-time Disaster Safety](https://github.com/lamiro3/Lin-K)** <br> `2026.03 ~ 2026.06.12` | ![Dongguk Univ](https://img.shields.io/badge/Dongguk%20Univ-7F77DD?style=flat-square) |
 | `2026` | **[POP-IT — Short-term Space Rental Platform](https://www.popit.co.kr/)** <br> `2026.06.22 ~ 2026.08.22` | ![UMC](https://img.shields.io/badge/UMC-ffd966?style=flat-square) |
 | `2026` | **[SafeMoney — AI-Based Financial Safety Management Platform](https://github.com/wo0oo/SafeMoney)** <br> `2026.07.28 ~ 2026.09.07` | ![BDAI](https://img.shields.io/badge/BDAI-c90076?style=flat-square) |
+| `2026` | **[Nextspot](https://github.com/Next-Spot)** <br> `2026.10.13 ~ ing` | ![GDGoC](https://img.shields.io/badge/GDGoC-f730e6?style=flat-square) |
 
 ## 📜 **Certificates**
 <ol>
