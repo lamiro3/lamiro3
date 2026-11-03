@@ -56,7 +56,7 @@
 | `2026` | **[SafeMoney — AI-Based Financial Safety Management Platform](https://github.com/wo0oo/SafeMoney)** <br> `2026.07.28 ~ 2026.09.07` | ![BDAI](https://img.shields.io/badge/BDAI-c90076?style=flat-square) |
 | `2026` | **[Nextspot](https://github.com/Next-Spot)** <br> `2026.10.13 ~ ing` | ![GDGoC](https://img.shields.io/badge/GDGoC-f730e6?style=flat-square) |
 
-## 📜 **Certificates**
+## 📜 **Certifications**
 <ol>
   <li>
       <div>HRDK - 정보처리기능사 (2023)</div>
