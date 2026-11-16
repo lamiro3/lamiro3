@@ -59,16 +59,16 @@
 ## 📜 **Certifications**
 <ol>
   <li>
-      <div>HRDK - 정보처리기능사 (2023)</div>
+      <a href="https://github.com/lamiro3/lamiro3/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EB%8A%A5%EC%82%AC_%ED%95%A9%EA%B2%A9%ED%99%95%EC%9D%B8%EC%84%9C.pdf">HRDK - 정보처리기능사 (2023)</a>
   </li>
   <li>
-      <div>KDATA - ADsP (2023)</div>
+      <a href="https://github.com/lamiro3/lamiro3/blob/main/ADsP_%EC%9E%90%EA%B2%A9%EC%A6%9D.pdf">KDATA - ADsP (2023)</a>
   </li>
   <li>
-      <div>KDATA - SQLD (2023)</div>
+      <a href="https://github.com/lamiro3/lamiro3/blob/main/SQLD_%EC%9E%90%EA%B2%A9%EC%A6%9D.pdf">KDATA - SQLD (2023)</a>
   </li>
   <li>
-      <div>KAIT - 리눅스마스터2급 (2025)</div>
+      <a href="https://github.com/lamiro3/lamiro3/blob/main/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B02%EA%B8%89_%ED%95%A9%EA%B2%A9%ED%99%95%EC%9D%B8%EC%84%9C.pdf">KAIT - 리눅스마스터2급 (2025)</a>
   </li>
 </ol>
 
