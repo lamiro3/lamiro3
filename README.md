@@ -56,7 +56,7 @@
 | `2026` | **[SafeMoney — AI-Based Financial Safety Management Platform](https://github.com/wo0oo/SafeMoney)** <br> `2026.07.28 ~ 2026.09.07` | ![BDAI](https://img.shields.io/badge/BDAI-c90076?style=flat-square) |
 | `2026` | **[Nextspot](https://github.com/Next-Spot)** <br> `2026.10.13 ~ ing` | ![GDGoC](https://img.shields.io/badge/GDGoC-f730e6?style=flat-square) |
 
-## 📜 **Certifications**
+## 📜 **Certification**
 <ol>
   <li>
       <a href="https://github.com/lamiro3/lamiro3/blob/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EB%8A%A5%EC%82%AC_%ED%95%A9%EA%B2%A9%ED%99%95%EC%9D%B8%EC%84%9C.pdf">HRDK - 정보처리기능사 (2023)</a>
